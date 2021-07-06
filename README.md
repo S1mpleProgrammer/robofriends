@@ -1,2 +1,2 @@
-# robofriends
+# RoboFriends
 My first react app!
